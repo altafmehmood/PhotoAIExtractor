@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PhotoAIExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Temp\\uk-trip\\originals -o"
+    }
+  }
+}
